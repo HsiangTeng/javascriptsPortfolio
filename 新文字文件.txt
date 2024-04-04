@@ -1,0 +1,8 @@
+git remote add origin https://github.com/HsiangTeng/javascriptsPortfolio.git
+git push -u origin main
+git merge other
+git branch other
+git add .
+git commit -m "hhhh"
+git push https://github.com/HsiangTeng/javascriptsPortfolio.git
+git pull git push https://github.com/HsiangTeng/javascriptsPortfolio.git
